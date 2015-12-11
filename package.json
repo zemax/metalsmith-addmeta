@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-addmeta",
   "description": "A metalsmith plugin to add data to metadata.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
