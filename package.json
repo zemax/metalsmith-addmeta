@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zemax/metalsmith-metadata.git"
+    "url": "git+https://github.com/zemax/metalsmith-addmeta.git"
   },
   "author": "Maxime Cousinou",
   "bugs": {
-    "url": "https://github.com/zemax/metalsmith-metadata/issues"
+    "url": "https://github.com/zemax/metalsmith-addmeta/issues"
   },
-  "homepage": "https://github.com/zemax/metalsmith-metadata#readme"
+  "homepage": "https://github.com/zemax/metalsmith-addmeta#readme"
 }
